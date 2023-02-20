@@ -1,6 +1,6 @@
 This is an example PHP project used in Codeanywhere.
 
-[Try it out](https://beta.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/php)
+[Try it out](https://app.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/php)
 
 ### Running the project
 
